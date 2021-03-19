@@ -1,41 +1,51 @@
 {
-    "users":
+    "etudiants":
     [
         {
         "id": 1,
-        "email": "test1@test.com",
+        "email": "etudiant1@test.com",
         "firstname": "Prenom1",
         "lastname": "Nom1",
         "password": "123456789"
         },
         {
         "id": 2,
-        "email": "test2@test.com",
+        "email": "etudiant2@test.com",
         "firstname": "Prenom2",
         "lastname": "Nom2",
         "password": "123456789"
         },
         {
         "id": 3,
-        "email": "test3@test.com",
+        "email": "etudiant3@test.com",
         "firstname": "Prenom3",
         "lastname": "Nom3",
         "password": "123456789"
         },
         {
         "id": 4,
-        "email": "test4@test.com",
+        "email": "etudiant4@test.com",
         "firstname": "Prenom4",
         "lastname": "Nom4",
         "password": "123456789"
         },
         {
         "id": 5,
-        "email": "test5@test.com",
+        "email": "etudiant5@test.com",
         "firstname": "Prenom5",
         "lastname": "Nom5",
         "password": "123456789"
         }
         
+    ],
+    "profs":
+    [
+        {
+            "id": 1,
+            "email": "prof@test.com",
+            "firstname": "PrenomProf",
+            "lastname": "NomProf",
+            "password": "123456789"
+        }
     ]
 }
