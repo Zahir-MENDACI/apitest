@@ -6,35 +6,35 @@
         "email": "test1@test.com",
         "firstname": "Prenom1",
         "lastname": "Nom1",
-        "password": "123456789",
+        "password": "123456789"
         },
         {
         "id": 2,
         "email": "test2@test.com",
         "firstname": "Prenom2",
         "lastname": "Nom2",
-        "password": "123456789",
+        "password": "123456789"
         },
         {
         "id": 3,
         "email": "test3@test.com",
         "firstname": "Prenom3",
         "lastname": "Nom3",
-        "password": "123456789",
+        "password": "123456789"
         },
         {
         "id": 4,
         "email": "test4@test.com",
         "firstname": "Prenom4",
         "lastname": "Nom4",
-        "password": "123456789",
+        "password": "123456789"
         },
         {
         "id": 5,
         "email": "test5@test.com",
         "firstname": "Prenom5",
         "lastname": "Nom5",
-        "password": "123456789",
+        "password": "123456789"
         }
         
     ]
